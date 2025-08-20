@@ -1,5 +1,3 @@
-## Hi there Welcome Again My Github Page👋
-
 <!--
 **unsaldemircioglu/unsaldemircioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -16,7 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/unsal-demircioglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unsal-demircioglu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/unsal-demircioglu" target="blank"><
+img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unsal-demircioglu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/29942620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29942620" height="30" width="40" /></a>
 <a href="https://instagram.com/unsal_demircioglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unsal_demircioglu" height="30" width="40" /></a>
 </p>
