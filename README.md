@@ -2,16 +2,18 @@
 **unsaldemircioglu/unsaldemircioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+
+<!--Profile Visit counts-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=unsaldemircioglu&label=Profile%20views&color=128dd9&style=flat-square" alt="unsaldemircioglu" /> </p>
+<!--0000000000000000000-->
+
+
 # 💫 About Me:
 I am a growth-oriented professional with an innovative and analytical mindset. I tackle complex problems with creative solutions while taking ownership at every stage of the process. Thanks to my strong communication skills and high adaptability, I play a proactive role in independent projects while driving meaningful value in collaboration with multidisciplinary teams.
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/unsal-demircioglu) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29942620) 
-
-<!--Profile Visit counts-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unsaldemircioglu&label=Profile%20views&color=128dd9&style=flat-square" alt="unsaldemircioglu" /> </p>
-<!--0000000000000000000-->
 
 
 # 💻 Tech Stack:
